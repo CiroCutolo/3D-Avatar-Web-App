@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cassandra3d",
+  "private_key_id": "8bd2d35148a8b14371d128d145bdcd3abda852d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrK9NxvBYu9DiG\nC9DXvexRXml94Bxv2sHBdbCNclrevk6neA88g0Kisc5wS7Hq/6x2R6FQSo5I6J1f\nI2KXrxLlh5Xt04HDrVTMv9l4nfF8K0DKNOHFh8joVa9EyPjQo/PRF2rfBK8478Jk\nYz3hzbL13WZJxqBGiY6p5wRvGu0RzNEIg9HnW2C1XcPpUAQBddnvoJFznkO1t+eE\nQsVAAZiXmiec6bsWCxctWJCciHuFHIFhMrTnSGFJoPa7K0I+YOWN5yk2r80Xcdwn\nCSi0Syxne7Osu50MwxlyhstJwHqH74LIN4Edix0U3v2QhIq9tpvdsiuuzjWJfc6w\nhn2g/DNlAgMBAAECggEAT1FAx6OAd+W3Cr8BeUJ9ahRF0Ea+UJufrfhby9k9/NKD\nBMjhmq9K0kTWM9nT8Ea7jEksh0AeLUkHiwcMQcyyuue4Eba8lZrodwZd+uiKgi60\nc37ShyT9Bh+gNbry8KvbmDIlwYJ69uEm12UBgh82tOYvkcKEXEYY8AUS4cZbHx0n\n+7htbjbF5JslbACM6mPdH3hMYWp0OK+ltnP7Kxn18867ECMEcwJoP555VVkGsjmV\nls8Ko8i+Mp+ODX/+nKxGATXSiu3o87tNnMCkM/vcAapF6i418cT8wng+Wg1WSie/\n1/7ie29Oqkk6vtttZzYdD825CinIcnkD23qmNa5/IQKBgQD479X2JcRe/woyB5/c\nr9I/vFMsyVU5oNl3o5UOSxcwQ8SIeAze68a1yaL8NaiFSvFgBy4pvAHEJgeQ5J2w\nvupjDDdVgjB6SY89FzNzj9FuyNNw4GZnGVHsoTMk2VxZQGl5aZVbTVsUA72x9Saw\nshChuk/UfYnRB4/nCzl/kJl8hwKBgQDx2ACtQptQVdzbpKc/j1Y+KE514PbKfDmI\ni5qESUNXlUksRHrHti+uXE/V9LL6c5wrQs0HGx1z9lFmDrkpBiWXwNTv9JuhWtqL\ngu4QcdcK1AuW99T6SF7wgcXJ/bycDOWhmfIrzw4ZoiISKT1H/nNuiM6Mp41fdHpL\nGlazkTYXswKBgAKugr2OFpl3YeK8FkrIUhmBq9u1p4dhZjZVustWn79TW5Ckym60\nV4Wp0GmrIk+dSRBhw2uLrPEx/67d55z50YiTnxz6tA79L9/WmiVKjVUGMNDsee3u\nZeWIrwZcmRQVD43RR1yebra+e5KpM2t/35H+cdG2MH/h9vjkNBBdvGmNAoGBAMMk\nCL/E+++hqLkuLamyreMvwMeLA3e1LvNHuiE9wHHeSpHGm8+j6OtnHyBD91rxiDS8\nDRXLwkM8oMeZ37wDcrf1Z5xLInzbA3cI6bEpOlxJZySkyxw84yZrgD4RWGwOWAfC\nYU8KHpV+ZsGCtyjtXxT0nL2PwRohsUACe60e4afTAoGBAOacCvRrL+jdZkggp2Tm\nYAo3iCKr/4kQXCfyOulT7+u0ITbOGbewiFWM9DhYVyjNVMWcd5jknosZ81MwGFMz\n153Jyqexoooonir5Sp/PSRkTRMPF94RuP1Q6dNoHX+s/2lnqYkbh42p0DjikIRkz\navZGVIOgkgTyT5gWNiNeA08z\n-----END PRIVATE KEY-----\n",
+  "client_email": "ciro-cutolo-tts-562@cassandra3d.iam.gserviceaccount.com",
+  "client_id": "109878990322502761790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ciro-cutolo-tts-562%40cassandra3d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
